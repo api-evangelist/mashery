@@ -43,3 +43,6 @@ maintainers:
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-parent: boomi
+x-relationship: acquisition
+x-acquired: 2024
